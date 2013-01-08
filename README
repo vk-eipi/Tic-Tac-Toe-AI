@@ -1,4 +1,4 @@
-OUAC# 2012-156363
+An interface and AI opponent for tic-tac-toe.
 
 This program requires pyFLTK to run. See http://pyfltk.sourceforge.net/
 
